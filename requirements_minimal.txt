@@ -1,0 +1,15 @@
+conda install numpy
+conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+conda install pandas
+conda install -c plotly plotly
+conda install scipy
+conda install scikit-learn
+
+
+
+Activate target env first: 
+conda activate env_name_here
+conda install nb_conda_kernels
+conda install ipykernel
+conda install jupyter
+jupyter notebook
