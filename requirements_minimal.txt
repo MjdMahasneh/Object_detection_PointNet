@@ -4,7 +4,7 @@ conda install pandas
 conda install -c plotly plotly
 conda install scipy
 conda install scikit-learn
-
+pip install matplotlib
 
 
 Activate target env first: 
